@@ -1,0 +1,20 @@
+.parenter{
+    height: 90vh;
+}
+.control-scroll {
+    /* min-height: calc(100vh - 44px); */
+    overflow-y: auto;
+    padding-bottom: 30px;
+}
+.dropdown:hover .dropdown-menu {
+display: block;
+}
+.dropdown-menu p {
+    padding: 6px 16px;
+    display: block;
+}
+
+.dropdown-menu p:hover {
+    background-color: bisque;
+    cursor: pointer;
+}

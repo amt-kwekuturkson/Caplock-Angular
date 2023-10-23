@@ -1,0 +1,14 @@
+.appointment-status {
+    cursor: pointer;
+}
+
+.appointment-status:hover .message-m{
+    display: block;
+}
+.message p {
+    display: block;
+}
+
+.card-customer {
+    cursor: pointer;
+}
