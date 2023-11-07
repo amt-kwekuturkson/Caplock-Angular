@@ -1,0 +1,22 @@
+.adjustion:hover {
+    width: 200px;
+    text-align: left;
+  }
+  
+  .icon-title {
+    display: none;
+    align-self: center;
+  }
+  
+  .adjustion:hover .icon-title {
+    display: block;
+  }
+  
+  .adjustion:hover .tabs {
+    width: fit-content;
+  }
+  
+  .adjustion:hover .tabs-parent {
+  align-self: self-start;
+  }
+  
